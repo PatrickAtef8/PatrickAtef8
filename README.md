@@ -6,19 +6,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-atef-9826a6244/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/PatrickAtef8)
 
-
 ## 📊 GitHub Statistics  
 
 <table>
   <tr>
-    <td style="padding-right: 50px;">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=PatrickAtef8&show_icons=true&theme=default" alt="GitHub Stats">
     </td>
-    <td style="padding-left: 50px;">
+    <td width="50">&nbsp;</td> <!-- Invisible spacing column -->
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAtef8&layout=compact" alt="Top Languages">
     </td>
   </tr>
 </table>
+
 
 
 ---
