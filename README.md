@@ -1,9 +1,9 @@
 # Hi, I'm Patrick Atef
 
-## Mechatronics Engineer | Embedded Systems in the **9-Month Professional Diploma** at the **Information Technology Institute (ITI)** Intake **45**.
+## Mechatronics Engineer | Embedded Systems Trainee in the **9-Month Professional Diploma** at the **Information Technology Institute (ITI)** Intake **45**.
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-atef-9826a6244/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/PatrickAtef8)
 
 
