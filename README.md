@@ -11,10 +11,15 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=PatrickAtef8&show_icons=true&theme=default" alt="GitHub Stats"></td>
-    <td><br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAtef8&layout=compact" alt="Top Languages"></td>
+    <td style="padding-right: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=PatrickAtef8&show_icons=true&theme=default" alt="GitHub Stats">
+    </td>
+    <td style="padding-left: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAtef8&layout=compact" alt="Top Languages">
+    </td>
   </tr>
 </table>
+
 
 ---
 
