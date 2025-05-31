@@ -1,6 +1,6 @@
 # Hi, I'm Patrick Atef  
 
-## Mechatronics Engineer | Embedded Systems Trainee  
+## Mechatronics Engineer | Embedded Systems and Android Automotive Trainee  
 Currently enrolled in the **9-Month Professional Diploma** at the **Information Technology Institute (ITI)** – Intake **45**.  
 
 ## 📫 Let's Connect
