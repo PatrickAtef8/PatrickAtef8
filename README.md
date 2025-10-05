@@ -1,37 +1,61 @@
-# Hi, I'm Patrick Atef 👋  
+# Hi, I'm Patrick Atef
 
-## Mechatronics Engineer | Embedded Systems & Android Automotive Developer  
+## Mechatronics Engineer | Embedded Systems & Android Automotive Developer
 
-🎓 I graduated from the **Information Technology Institute (ITI)** – Intake **45**,  
-specializing in the **Embedded Systems Track** and **Android Automotive Development**.  
+I'm a graduate of the **Information Technology Institute (ITI)** – Intake **45**, specialized in the **Embedded Systems Track** and **Android Automotive Development**.
 
-💻 Throughout this journey, I’ve built and collaborated on multiple real-world embedded and Android Automotive projects —  
-you can explore my full **9-month journey** and its results in my repositories (**"حصاد الـ 9 شهور"** 🌾).  
+Passionate about building intelligent systems that bridge automotive software and connected experiences. During my 9-month journey at ITI, I worked on multiple real-world projects — you'll find the full experience and outcomes across my repositories.
+---
 
-🚘 My **ITI Graduation Project**: [PAO – Power Of Three](https://github.com/PAO-PowerOfThree)  
-A **Tri-System Automotive Architecture** integrating **Bare Metal**, **Embedded Linux (Yocto)**, and **Android Automotive (AOSP)** across multiple in-vehicle displays —  
-bridging real-time systems with connected user experiences.
+## Featured Project
+
+### **ITI Graduation Project:** [PAO – Power Of Three](https://github.com/PAO-PowerOfThree)
+
+A **Tri-System Automotive Architecture** integrating **Bare Metal**, **Embedded Linux (Yocto + Qt)**, and **Android Automotive (AOSP)** across multiple in-vehicle displays — enabling secure communication, real-time data sharing, and seamless user experiences.
 
 ---
 
-## 📊 GitHub Statistics  
+## Tech Stack & Expertise
+
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-007ACC?style=for-the-badge)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Yocto](https://img.shields.io/badge/Yocto-000000?style=for-the-badge&logo=yocto&logoColor=white)
+![AOSP](https://img.shields.io/badge/AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![VSOMEIP](https://img.shields.io/badge/vSOME/IP-FF6F00?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+---
+
+## GitHub Statistics
 
 <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=PatrickAtef8&show_icons=true&theme=default" alt="GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAtef8&layout=compact" alt="Top Languages"></td>
-  </tr>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=PatrickAtef8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats"></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAtef8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages"></td>
+</tr>
 </table>
 
----
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-atef-9826a6244/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/PatrickAtef8)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickAtef8&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak">
+</p>
 
 ---
 
-🚀 I’m looking forward to contributing to **innovative projects and organizations**  
-where embedded intelligence and connected technologies meet creativity.  
+## Let's Connect
 
-💡 *All Glory To God* 🙏
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-atef-9826a6244/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PatrickAtef8)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](patrickatefffa22@gmail.com)
+
+---
+
+I'm looking forward to contributing to **innovative projects and organizations** that merge creativity with technology — from embedded intelligence to connected vehicles.
+
+**All Glory To God**
