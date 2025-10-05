@@ -2,16 +2,24 @@
 
 ## Mechatronics Engineer | Embedded Systems & Android Automotive Developer
 
-I'm a graduate of the **Information Technology Institute (ITI)** – Intake **45**, specialized in the **Embedded Systems Track** and **Android Automotive Development**.
+**ITI Graduate** – Intake 45 | Specialized in **Embedded Systems** & **Android Automotive**
 
-Passionate about building intelligent systems that bridge automotive software and connected experiences. During my 9-month journey at ITI, I worked on multiple real-world projects — you'll find the full experience and outcomes across my repositories.
+Building the future of intelligent automotive systems where low-level embedded control meets high-performance user experiences. From bare metal to Android, I architect systems that power the next generation of connected vehicles.
+
+My 9-month intensive at ITI transformed theory into practice through hands-on projects that solve real automotive challenges. Explore the journey across my repositories.
+
 ---
 
-## Featured Project
+## Featured Work
 
-### **ITI Graduation Project:** [PAO – Power Of Three](https://github.com/PAO-PowerOfThree)
+### [PAO – Power Of Three](https://github.com/PAO-PowerOfThree) | ITI Graduation Project
 
-A **Tri-System Automotive Architecture** integrating **Bare Metal**, **Embedded Linux (Yocto + Qt)**, and **Android Automotive (AOSP)** across multiple in-vehicle displays — enabling secure communication, real-time data sharing, and seamless user experiences.
+**Multi-domain automotive platform** spanning three distinct ecosystems:
+- **Bare Metal Layer** – Real-time vehicle control and sensor integration
+- **Embedded Linux Stack** – Yocto-based middleware with Qt interfaces  
+- **Android Automotive OS** – Modern infotainment and connectivity
+
+Synchronized communication across heterogeneous systems. Unified user experience across multiple displays. Built for the complexity of modern vehicles.
 
 ---
 
