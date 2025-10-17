@@ -1,6 +1,6 @@
 # Hi, I'm Patrick Atef
 
-## Mechatronics Engineer | Embedded Systems & Android Automotive Developer
+## Embedded Systems & Android Automotive Developer
 
 **ITI Graduate** – Intake 45 | Specialized in **Embedded Systems** & **Android Automotive**
 ---
