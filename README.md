@@ -3,11 +3,6 @@
 ## Mechatronics Engineer | Embedded Systems & Android Automotive Developer
 
 **ITI Graduate** – Intake 45 | Specialized in **Embedded Systems** & **Android Automotive**
-
-Building the future of intelligent automotive systems where low-level embedded control meets high-performance user experiences. From bare metal to Android, I architect systems that power the next generation of connected vehicles.
-
-My 9-month intensive at ITI transformed theory into practice through hands-on projects that solve real automotive challenges. Explore the journey across my repositories.
-
 ---
 
 ## Featured Work
