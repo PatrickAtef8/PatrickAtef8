@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Patrick+Atef;Embedded+Software+Developer;Embedded+Linux+Developer;Android+Automotive+Developer;Android+Mobile+Application+Developer;ISTQB+Certified" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Patrick+Atef;Embedded+Software+Developer;Embedded+Linux+Developer;Android+Automotive+Developer;Android+Mobile+App+Developer;ISTQB+Certified+Professional" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -25,23 +25,17 @@
 
 ## About Me
 
-```typescript
-const patrick = {
-    location: "Cairo, Egypt",
-    education: "ITI - Intake 45",
-    specialization: ["Embedded Systems", "Android Automotive"],
-    currentFocus: "Building next-generation automotive platforms",
-    interests: ["RTOS", "AUTOSAR", "Vehicle Connectivity", "IoT"],
-    philosophy: "Merging hardware precision with software elegance"
-};
-```
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+**Location:** Cairo, Egypt  
+**Education:** ITI - Intake 45  
+**Specialization:** Embedded Systems, Android Automotive
 
 ### What I Do
 
 - Design and develop real-time embedded systems
 - Build Android Automotive OS applications
+- Design mobile Android apps using Java and Kotlin
 - Create bare-metal firmware for ARM architectures
 - Develop custom Linux distributions with Yocto
 - Implement vehicle middleware and communication protocols
@@ -59,17 +53,7 @@ const patrick = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
 
-</div>
-
-A comprehensive automotive solution bridging three technology domains:
-
-```mermaid
-graph LR
-    A[Bare Metal Layer] -->|Real-time Control| D[Vehicle Systems]
-    B[Embedded Linux] -->|Qt Middleware| D
-    C[Android Automotive] -->|Infotainment| D
-    style D fill:#00d9ff,stroke:#0099cc,stroke-width:3px
-```
+<br/>
 
 #### Key Achievements
 
@@ -80,10 +64,9 @@ graph LR
 | **AAOS** | AOSP + Kotlin | Connected infotainment experience |
 
 **Features:**
-- Cross-platform IPC using vSOME/IP
-- Synchronized multi-display architecture
-- Real-time data streaming and processing
-- Production-grade automotive standards compliance
+ Cross-platform IPC using vSOME/IP, Synchronized multi-display architecture, Real-time data streaming and processing, Production-grade automotive standards compliance
+
+</div>
 
 ---
 
@@ -111,18 +94,25 @@ Linux • Qt • Android • AOSP
 Git • CMake • Bash • Vim
 </td>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=docker,vscode,eclipse,idea" /><br/>
-<b>IDEs</b><br/>
-Docker • VS Code • Eclipse • IntelliJ
+<img src="https://skillicons.dev/icons?i=docker,vscode,androidstudio" /><br/>
+<b>IDEs & Tools</b><br/>
+Docker • VS Code • Android Studio
 </td>
 </tr>
 </table>
+
+### Additional Development Tools
+
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Specialized Skills
 
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-007ACC?style=for-the-badge&logo=arduino&logoColor=white)
 ![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![RTOS](https://img.shields.io/badge/RTOS-00979D?style=for-the-badge&logo=freertos&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr-4B0082?style=for-the-badge&logo=zephyrproject&logoColor=white)
 ![Yocto Project](https://img.shields.io/badge/Yocto_Project-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![AOSP](https://img.shields.io/badge/AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Automotive](https://img.shields.io/badge/Android_Automotive-34A853?style=for-the-badge&logo=android&logoColor=white)
@@ -130,6 +120,7 @@ Docker • VS Code • Eclipse • IntelliJ
 ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-009639?style=for-the-badge&logo=automobile&logoColor=white)
 ![CAN Bus](https://img.shields.io/badge/CAN_Bus-005A9C?style=for-the-badge&logo=canva&logoColor=white)
 ![I2C/SPI](https://img.shields.io/badge/I2C%2FSPI-4B8BBE?style=for-the-badge&logo=circuitverse&logoColor=white)
+![ISTQB](https://img.shields.io/badge/ISTQB_Certified-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
@@ -141,8 +132,6 @@ Docker • VS Code • Eclipse • IntelliJ
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PatrickAtef8&show_icons=true&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=30363d&hide_border=true&count_private=true" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickAtef8&theme=react&bg_color=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border=30363d&hide_border=true" alt="GitHub Streak"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PatrickAtef8&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph"/>
 
 ### Most Used Languages
 
