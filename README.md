@@ -1,69 +1,200 @@
-# Hi, I'm Patrick Atef
+<div align="center">
 
-## Mechatronics Engineer | Embedded Systems & Android Automotive Developer
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Patrick+Atef;Embedded+Software+Developer;Embedded+Linux+Developer;Android+Automotive+Developer;Android+Mobile+Application+Developer+ISTQB+Certified" alt="Typing SVG" />
 
-**ITI Graduate** – Intake 45 | Specialized in **Embedded Systems** & **Android Automotive**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-Building the future of intelligent automotive systems where low-level embedded control meets high-performance user experiences. From bare metal to Android, I architect systems that power the next generation of connected vehicles.
+### ITI Graduate - Intake 45 | Specialized in Embedded Systems & Android Automotive
 
-My 9-month intensive at ITI transformed theory into practice through hands-on projects that solve real automotive challenges. Explore the journey across my repositories.
+<p align="center">
+  <a href="https://www.linkedin.com/in/patrick-atef-9826a6244/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/PatrickAtef8">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:patrickatefffa22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
----
-
-## Featured Work
-
-### [PAO – Power Of Three](https://github.com/PAO-PowerOfThree) | ITI Graduation Project
-
-**Multi-domain automotive platform** spanning three distinct ecosystems:
-- **Bare Metal Layer** – Real-time vehicle control and sensor integration
-- **Embedded Linux Stack** – Yocto-based middleware with Qt interfaces  
-- **Android Automotive OS** – Modern infotainment and connectivity
-
-Synchronized communication across heterogeneous systems. Unified user experience across multiple displays. Built for the complexity of modern vehicles.
-
----
-
-## Tech Stack & Expertise
-
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-007ACC?style=for-the-badge)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Yocto](https://img.shields.io/badge/Yocto-000000?style=for-the-badge&logo=yocto&logoColor=white)
-![AOSP](https://img.shields.io/badge/AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![VSOMEIP](https://img.shields.io/badge/vSOME/IP-FF6F00?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+</div>
 
 ---
 
-## GitHub Statistics
+## About Me
+
+```typescript
+const patrick = {
+    location: "Cairo, Egypt",
+    education: "ITI - Intake 45",
+    specialization: ["Embedded Systems", "Android Automotive"],
+    currentFocus: "Building next-generation automotive platforms",
+    interests: ["RTOS", "AUTOSAR", "Vehicle Connectivity", "IoT"],
+    philosophy: "Merging hardware precision with software elegance"
+};
+```
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### What I Do
+
+- Design and develop real-time embedded systems
+- Build Android Automotive OS applications
+- Create bare-metal firmware for ARM architectures
+- Develop custom Linux distributions with Yocto
+- Implement vehicle middleware and communication protocols
+
+<br clear="right"/>
+
+---
+
+## Featured Project
+
+<div align="center">
+
+### [PAO – Power Of Three](https://github.com/PAO-PowerOfThree)
+**ITI Graduation Project | Multi-Domain Automotive Platform**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+
+</div>
+
+A comprehensive automotive solution bridging three technology domains:
+
+```mermaid
+graph LR
+    A[Bare Metal Layer] -->|Real-time Control| D[Vehicle Systems]
+    B[Embedded Linux] -->|Qt Middleware| D
+    C[Android Automotive] -->|Infotainment| D
+    style D fill:#00d9ff,stroke:#0099cc,stroke-width:3px
+```
+
+#### Key Achievements
+
+| Domain | Technology | Implementation |
+|--------|-----------|----------------|
+| **Bare Metal** | ARM Cortex-M | Real-time sensor fusion & vehicle control |
+| **Linux Stack** | Yocto + Qt | Custom middleware with modern UI/UX |
+| **AAOS** | AOSP + Kotlin | Connected infotainment experience |
+
+**Features:**
+- Cross-platform IPC using vSOME/IP
+- Synchronized multi-display architecture
+- Real-time data streaming and processing
+- Production-grade automotive standards compliance
+
+---
+
+## Technology Stack
+
+<div align="center">
+
+### Core Competencies
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=PatrickAtef8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats"></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAtef8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages"></td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin" /><br/>
+<b>Languages</b><br/>
+C/C++ • Java • Kotlin
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=linux,qt,androidstudio,gradle" /><br/>
+<b>Platforms</b><br/>
+Linux • Qt • Android • AOSP
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=git,cmake,bash,vim" /><br/>
+<b>Tools</b><br/>
+Git • CMake • Bash • Vim
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=docker,vscode,eclipse,idea" /><br/>
+<b>IDEs</b><br/>
+Docker • VS Code • Eclipse • IntelliJ
+</td>
 </tr>
 </table>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickAtef8&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak">
-</p>
+### Specialized Skills
+
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-007ACC?style=for-the-badge&logo=arduino&logoColor=white)
+![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-00979D?style=for-the-badge&logo=freertos&logoColor=white)
+![Yocto Project](https://img.shields.io/badge/Yocto_Project-000000?style=for-the-badge&logo=linux&logoColor=white)
+![AOSP](https://img.shields.io/badge/AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Automotive](https://img.shields.io/badge/Android_Automotive-34A853?style=for-the-badge&logo=android&logoColor=white)
+![vSOME/IP](https://img.shields.io/badge/vSOME%2FIP-FF6F00?style=for-the-badge&logo=vsco&logoColor=white)
+![AUTOSAR](https://img.shields.io/badge/AUTOSAR-009639?style=for-the-badge&logo=automobile&logoColor=white)
+![CAN Bus](https://img.shields.io/badge/CAN_Bus-005A9C?style=for-the-badge&logo=canva&logoColor=white)
+![I2C/SPI](https://img.shields.io/badge/I2C%2FSPI-4B8BBE?style=for-the-badge&logo=circuitverse&logoColor=white)
+
+</div>
 
 ---
 
-## Let's Connect
+## GitHub Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-atef-9826a6244/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PatrickAtef8)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrickatefffa22@gmail.com)
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PatrickAtef8&show_icons=true&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=30363d&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickAtef8&theme=react&bg_color=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border=30363d&hide_border=true" alt="GitHub Streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PatrickAtef8&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph"/>
+
+### Most Used Languages
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAtef8&layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
 
 ---
 
-I'm looking forward to contributing to **innovative projects and organizations** that merge creativity with technology — from embedded intelligence to connected vehicles.
+## Current Focus
 
-**All Glory To God**
+<div align="center">
+
+```text
+▸ Exploring advanced AUTOSAR architecture patterns
+▸ Deep-diving into vehicle-to-everything (V2X) communication
+▸ Contributing to open-source automotive projects
+▸ Mastering real-time operating systems (FreeRTOS, Zephyr)
+▸ Building portfolio of production-ready embedded solutions
+```
+
+</div>
+
+---
+
+## Let's Collaborate
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### Open to opportunities in:
+
+**Embedded Systems Engineering** | **Automotive Software Development**  
+**Android Automotive OS** | **IoT Solutions** | **System Architecture**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-atef-9826a6244/)
+[![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrickatefffa22@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PatrickAtef8)
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### *"Building the bridge between silicon and software, one commit at a time"*
+
+<img src="https://komarev.com/ghpvc/?username=PatrickAtef8&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+---
+
+<sub>From [PatrickAtef8](https://github.com/PatrickAtef8) | **All Glory To God**</sub>
+
+</div>
