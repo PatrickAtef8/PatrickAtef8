@@ -45,15 +45,10 @@
 ### What I Do
 
 - Design and develop **real-time embedded systems**  
-<br>
 - Build **Android Automotive OS applications**  
-<br>
 - Design **mobile Android apps** using Java and Kotlin  
-<br>
 - Create **bare-metal firmware** for ARM architectures  
-<br>
 - Develop **custom Linux distributions** with Yocto  
-<br>
 - Implement **vehicle middleware** and communication protocols  
 
 <br clear="right"/>
