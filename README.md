@@ -31,11 +31,8 @@
 <img align="right" width="350" src="assets/mypersonalpic.jpeg" style="border-radius:40px; margin-left:20px; margin-bottom:10px;">
 
 **Location:** Cairo, Egypt  
-<br>
 **Education:** ITI – Intake 45  
-<br>
 **Specialization:** Embedded Systems, Android Automotive  
-<br>
 **Focus:** Embedded Linux, AOSP, In-Vehicle Infotainment Systems  
 
 </div>
