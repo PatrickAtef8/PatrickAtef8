@@ -56,7 +56,9 @@
 ### [PAO – Power Of Three](https://github.com/PAO-PowerOfThree)
 **ITI Graduation Project | Multi-Domain Automotive Platform**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
+<a href="https://github.com/PAO-PowerOfThree" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
+</a>
 
 <br/>
 
@@ -68,10 +70,14 @@
 | **Linux Stack** | Yocto + Qt | Custom middleware with modern UI/UX |
 | **AAOS** | AOSP + Kotlin | Connected infotainment experience |
 
-**Features:**
- Cross-platform IPC using vSOME/IP, Synchronized multi-display architecture, Real-time data streaming and processing, Production-grade automotive standards compliance
+**Features:**  
+IPC between Yocto and Android using vSOME/IP,  
+Multi-display IVI setup with **1 Qt-based screen on Yocto** and **2 Android Automotive (AAOS) screens**,  
+Real-time sharing of simulated vehicle signals across systems,  
+Automotive-oriented system integration prototype.
 
 </div>
+
 
 ---
 
