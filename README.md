@@ -34,7 +34,7 @@
 **Specialization:** Embedded Systems, Android Automotive  
 **Focus:** Embedded Linux, AOSP, In-Vehicle Infotainment Systems
 
-<br><br>
+<br><br><br>
 
 ### What I Do
 
