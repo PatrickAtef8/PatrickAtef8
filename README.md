@@ -28,7 +28,7 @@
 
 <div align="left">
 
-<img align="right" width="315" src="assets/mypersonalpic.jpeg" style="border-radius:40px; margin-left:20px; margin-bottom:10px;">
+<img align="right" width="400" src="assets/mypersonalpic.jpeg" style="border-radius:40px; margin-left:20px; margin-bottom:10px;">
 
 **Location:** Cairo, Egypt  
 <br>
@@ -40,7 +40,7 @@
 
 </div>
 
-<br><br><br>
+<br>
 
 ### What I Do
 
