@@ -24,28 +24,40 @@
 ---
 <br>
 
-
 ## About Me
 
-<img align="right" width="315" src="assets/mypersonalpic.jpeg" style="border-radius:40px;">
+<div align="left">
+
+<img align="right" width="400" src="assets/mypersonalpic.jpeg" style="border-radius:40px; margin-left:20px; margin-bottom:10px;">
 
 **Location:** Cairo, Egypt  
+<br>
 **Education:** ITI – Intake 45  
+<br>
 **Specialization:** Embedded Systems, Android Automotive  
-**Focus:** Embedded Linux, AOSP, In-Vehicle Infotainment Systems
+<br>
+**Focus:** Embedded Linux, AOSP, In-Vehicle Infotainment Systems  
+
+</div>
 
 <br><br><br>
 
 ### What I Do
 
-- Design and develop real-time embedded systems
-- Build Android Automotive OS applications
-- Design mobile Android apps using Java and Kotlin
-- Create bare-metal firmware for ARM architectures
-- Develop custom Linux distributions with Yocto
-- Implement vehicle middleware and communication protocols
+- Design and develop **real-time embedded systems**  
+<br>
+- Build **Android Automotive OS applications**  
+<br>
+- Design **mobile Android apps** using Java and Kotlin  
+<br>
+- Create **bare-metal firmware** for ARM architectures  
+<br>
+- Develop **custom Linux distributions** with Yocto  
+<br>
+- Implement **vehicle middleware** and communication protocols  
 
 <br clear="right"/>
+
 
 ---
 
