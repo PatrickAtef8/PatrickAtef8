@@ -33,7 +33,7 @@
 **Location:** Cairo, Egypt  
 **Education:** ITI – Intake 45  
 **Specialization:** Embedded Systems, Android Automotive  
-**Focus:** Embedded Linux, AOSP, In-Vehicle Infotainment Systems  
+**Focus:** Embedded Linux, AOSP(Android Open Source Project), In-Vehicle Infotainment Systems  
 
 </div>
 
