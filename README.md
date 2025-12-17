@@ -28,7 +28,7 @@
 
 <div align="left">
 
-<img align="right" width="250" src="assets/personal.jpeg" style="border-radius:40px; margin-left:20px; margin-bottom:10px;">
+<img align="right" width="260" src="assets/personal.jpeg" style="border-radius:40px; margin-left:20px; margin-bottom:10px;">
 
 **Location:** Cairo, Egypt  
 **Education:** ITI – Intake 45  
