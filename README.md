@@ -175,15 +175,6 @@ Docker • VS Code • Android Studio
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PatrickAtef8)
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-### *"Building the bridge between silicon and software, one commit at a time"*
-
-<img src="https://komarev.com/ghpvc/?username=PatrickAtef8&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
----
-
 <sub>From [PatrickAtef8](https://github.com/PatrickAtef8) | **All Glory To God**</sub>
 
 </div>
