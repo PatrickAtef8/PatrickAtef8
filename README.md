@@ -145,14 +145,17 @@ Docker • VS Code • Android Studio
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PatrickAtef8&show_icons=true&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=30363d&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickAtef8&theme=react&bg_color=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border=30363d&hide_border=true" alt="GitHub Streak"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=PatrickAtef8&show_icons=true&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=30363d&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickAtef8&theme=react&bg_color=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border=30363d&hide_border=true" alt="GitHub Streak"/>
+
+<br><br>
 
 ### Most Used Languages
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAtef8&layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAtef8&layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
+
 
 ## Let's Collaborate
 
