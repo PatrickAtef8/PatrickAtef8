@@ -31,6 +31,10 @@
 **Education:** ITI - Intake 45  
 **Specialization:** Embedded Systems, Android Automotive
 
+
+
+<br><br><br>
+
 ### What I Do
 
 - Design and develop real-time embedded systems
