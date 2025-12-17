@@ -27,7 +27,7 @@
 
 ## About Me
 
-<img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/PatrickAtef8/PatrickAtef8/main/assets/Programing.gif">
+<img align="right" alt="Developer" width="300" src="assets/mypersonalpic.jpeg">
 
 **Location:** Cairo, Egypt  
 **Education:** ITI – Intake 45  
