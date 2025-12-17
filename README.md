@@ -27,7 +27,7 @@
 
 ## About Me
 
-<img align="right" alt="Developer" width="400" src="assets/mypersonalpic.jpeg">
+<img align="right" alt="Developer" width="350" src="assets/mypersonalpic.jpeg">
 
 **Location:** Cairo, Egypt  
 **Education:** ITI – Intake 45  
@@ -56,7 +56,7 @@
 ### [PAO – Power Of Three](https://github.com/PAO-PowerOfThree)
 **ITI Graduation Project | Multi-Domain Automotive Platform**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
 
 <br/>
 
@@ -144,24 +144,6 @@ Docker • VS Code • Android Studio
 
 </div>
 
----
-
-## Current Focus
-
-<div align="center">
-
-```text
-▸ Exploring advanced AUTOSAR architecture patterns
-▸ Deep-diving into vehicle-to-everything (V2X) communication
-▸ Contributing to open-source automotive projects
-▸ Mastering real-time operating systems (FreeRTOS, Zephyr)
-▸ Building portfolio of production-ready embedded solutions
-```
-
-</div>
-
----
-
 ## Let's Collaborate
 
 <div align="center">
@@ -171,7 +153,7 @@ Docker • VS Code • Android Studio
 ### Open to opportunities in:
 
 **Embedded Systems Engineering** | **Automotive Software Development**  
-**Android Automotive OS** | **IoT Solutions** | **System Architecture**
+**Android Automotive OS** | **Android Mobile Application** | **Software Testing** | **IoT Solutions** | **System Architecture**
 
 <br/>
 
