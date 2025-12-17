@@ -27,7 +27,7 @@
 
 ## About Me
 
-<img align="right" alt="Developer" width="350" src="assets/mypersonalpic.jpeg">
+<img align="right" width="300" src="assets/mypersonalpic.jpeg" style="border-radius:40px;">
 
 **Location:** Cairo, Egypt  
 **Education:** ITI – Intake 45  
