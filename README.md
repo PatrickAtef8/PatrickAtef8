@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-### ITI Graduate - Intake 45 | Specialized in Embedded Systems & Android Automotive
+### Software Engineer | ITI Graduate - Intake 45 | Specialized in Embedded Systems & Android Automotive
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patrick-atef-9826a6244/">
