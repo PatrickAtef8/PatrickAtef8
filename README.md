@@ -23,7 +23,6 @@ roles:
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=PatrickAtef8&label=Profile%20views&color=00d9ff&style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/badge/ISTQB-Certified-22c55e?style=flat-square" alt="ISTQB"/>
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-8b5cf6?style=flat-square" alt="Open to opportunities"/>
 
@@ -139,12 +138,6 @@ I build software that lives inside vehicles and on embedded hardware, from bare-
 
 <div align="center">
 
-**Open to opportunities in**
-
-Embedded Systems Engineering · Automotive Software Development · Android Automotive OS<br/>
-Android Mobile Apps · Software Testing · IoT Solutions · System Architecture
-
-<br/>
 
 <a href="https://www.linkedin.com/in/patrick-atef-9826a6244/"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:patrickatefffa22@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
