@@ -133,30 +133,6 @@ I build software that lives inside vehicles and on embedded hardware, from bare-
 
 <br/>
 
-<!-- ===================== STATS ===================== -->
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PatrickAtef8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAtef8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=PatrickAtef8&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrickAtef8&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=PatrickAtef8&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
-
-<br/>
-
 <!-- ===================== CONTACT ===================== -->
 ## Let's Collaborate
 
