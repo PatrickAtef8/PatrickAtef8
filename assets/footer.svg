@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="All glory to God">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b14"/><stop offset="1" stop-color="#0d2b45"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1200" height="110" rx="18"/></clipPath>
+    <style>
+      .t { font: 600 15px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; fill: #9bb7d1; letter-spacing: 3px; }
+      .flow { stroke-dasharray: 14 10; animation: flow 1.6s linear infinite; }
+      .flow2 { stroke-dasharray: 6 12; animation: flow 2.4s linear infinite reverse; }
+      @keyframes flow { to { stroke-dashoffset: -48; } }
+    </style>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="110" fill="url(#bg)"/>
+    <text x="600.0" y="38" text-anchor="middle" class="t">ALL GLORY TO GOD</text>
+    <path d="M0,70 L0,60 L78,60 L78,70 L156,70 L156,60 L234,60 L234,70 L260,70 L260,60 L286,60 L286,70 L364,70 L364,60 L390,60 L390,70 L416,70 L416,60 L494,60 L494,70 L546,70 L546,60 L572,60 L572,70 L598,70 L598,60 L624,60 L624,70 L702,70 L702,60 L780,60 L780,70 L806,70 L806,60 L832,60 L832,70 L858,70 L858,60 L884,60 L884,70 L910,70 L910,60 L936,60 L936,70 L962,70 L962,60 L988,60 L988,70 L1066,70 L1066,60 L1118,60 L1118,70 L1196,70 L1196,60 L1200,60" fill="none" stroke="#7c5cff" stroke-width="2" opacity="0.55" class="flow2"/>
+    <path d="M0,70 L0,54 L34,54 L34,70 L68,70 L68,54 L136,54 L136,70 L238,70 L238,54 L272,54 L272,70 L306,70 L306,54 L408,54 L408,70 L476,70 L476,54 L510,54 L510,70 L544,70 L544,54 L646,54 L646,70 L748,70 L748,54 L850,54 L850,70 L884,70 L884,54 L918,54 L918,70 L952,70 L952,54 L1054,54 L1054,70 L1088,70 L1088,54 L1122,54 L1122,70 L1156,70 L1156,54 L1190,54 L1190,70 L1200,70" fill="none" stroke="#00d9ff" stroke-width="2.5" class="flow"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="108" rx="17" fill="none" stroke="#17405f" stroke-width="2"/>
+</svg>

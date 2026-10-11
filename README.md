@@ -1,13 +1,9 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Patrick%20Atef&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Embedded%20Linux%20%C2%B7%20Android%20Automotive%20%C2%B7%20Embedded%20Systems&descSize=18&descAlignY=58" alt="header" width="100%"/>
+<img src="assets/header.svg" alt="Patrick Atef - Embedded Linux and Android Automotive developer" width="100%"/>
 
-<a href="https://github.com/PatrickAtef8">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&height=45&lines=Embedded+Software+Developer;Embedded+Linux+%26+Yocto+Developer;Android+Automotive+(AAOS)+Developer;Android+Mobile+App+Developer;ISTQB+Certified+Professional" alt="Typing SVG" />
-</a>
-
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=PatrickAtef8&label=Profile%20views&color=00d9ff&style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/badge/ITI-Intake%2045-e11d48?style=flat-square" alt="ITI Intake 45"/>
@@ -28,9 +24,18 @@
 <!-- ===================== ABOUT ===================== -->
 ## 👨‍💻 About Me
 
-<img align="right" width="180" src="assets/avatar.png" alt="Patrick Atef"/>
+<div align="left">
 
-I build software that lives inside vehicles and on embedded hardware, from bare-metal firmware to Linux middleware to Android Automotive infotainment. Graduate of **ITI (Intake 45)**, based in **Cairo, Egypt**.
+<img align="right" width="260" src="assets/personal.jpeg" alt="Patrick Atef">
+
+I build software that lives inside vehicles and on embedded hardware, from bare-metal firmware to Linux middleware to Android Automotive infotainment.
+
+**Location:** Cairo, Egypt  
+**Education:** ITI – Intake 45  
+**Specialization:** Embedded Systems, Android Automotive  
+**Focus:** Embedded Linux, AOSP (Android Open Source Project), In-Vehicle Infotainment Systems  
+
+</div>
 
 <br clear="right"/>
 
@@ -182,10 +187,12 @@ Android Mobile Apps · Software Testing · IoT Solutions · System Architecture
 <a href="https://www.linkedin.com/in/patrick-atef-9826a6244/"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:patrickatefffa22@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/><br/>
+<br/>
 
-<sub>**All Glory To God** ✝️</sub>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" width="100%"/>
+<br/>
 
+<div align="center">
+<img src="assets/footer.svg" alt="All glory to God" width="100%"/>
 </div>
