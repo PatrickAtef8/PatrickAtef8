@@ -4,8 +4,9 @@ The header image rebuilds itself in about a minute.
 Add or remove lines under "roles" as you like.
 Need another tag line? Add "tag_line_3: your text" (up to 3 tag lines fit).
 
-tag_line_1: ITI · INTAKE 45
-tag_line_2: CAIRO, EGYPT
+tag_line_1: Software Engineer 
+tag_line_2: ITI · INTAKE 45
+tag_line_3: CAIRO, EGYPT
 name: PATRICK ATEF
 roles:
   - Embedded Software Developer
