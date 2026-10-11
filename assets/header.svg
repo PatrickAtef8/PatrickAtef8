@@ -40,25 +40,30 @@
     <rect width="1200" height="320" fill="url(#grid)"/>
     <circle cx="985" cy="150" r="190" fill="url(#glow)"/>
 
-    <!-- corner tags -->
+
+    <!-- tag lines -->
     <text x="70" y="52" class="tag">ITI · INTAKE 45</text>
     <text x="70" y="72" class="tag" fill="#4d6a85">CAIRO, EGYPT</text>
     <circle cx="52" cy="47" r="5" fill="#22c55e"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
 
     <!-- name -->
-    <text x="66" y="150" class="name">PATRICK ATEF</text>
+    <text x="66" y="150" class="name" style="font-size:70px">PATRICK ATEF</text>
     <rect x="70" y="205" width="170" height="4" rx="2" fill="url(#prog)"/>
 
     <!-- rotating roles -->
-    <text x="70" y="188" class="role" opacity="0">Embedded Software Developer
+    <text x="70" y="188" class="role" style="font-size:26px" opacity="0">Embedded Software Developer
       <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.17;0.2;1" dur="15s" begin="0s" repeatCount="indefinite"/>
-    </text><text x="70" y="188" class="role" opacity="0">Embedded Linux  ·  Yocto
+    </text>
+    <text x="70" y="188" class="role" style="font-size:26px" opacity="0">Embedded Linux · Yocto
       <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.17;0.2;1" dur="15s" begin="3s" repeatCount="indefinite"/>
-    </text><text x="70" y="188" class="role" opacity="0">Android Automotive  ·  AOSP
+    </text>
+    <text x="70" y="188" class="role" style="font-size:26px" opacity="0">Android Automotive · AOSP
       <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.17;0.2;1" dur="15s" begin="6s" repeatCount="indefinite"/>
-    </text><text x="70" y="188" class="role" opacity="0">Android Mobile Apps  ·  Kotlin
+    </text>
+    <text x="70" y="188" class="role" style="font-size:26px" opacity="0">Android Mobile Apps · Kotlin
       <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.17;0.2;1" dur="15s" begin="9s" repeatCount="indefinite"/>
-    </text><text x="70" y="188" class="role" opacity="0">ISTQB Certified Professional
+    </text>
+    <text x="70" y="188" class="role" style="font-size:26px" opacity="0">ISTQB Certified Professional
       <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.17;0.2;1" dur="15s" begin="12s" repeatCount="indefinite"/>
     </text>
     <rect x="70" y="228" width="12" height="22" fill="#00d9ff" class="blink"/>

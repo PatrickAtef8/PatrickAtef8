@@ -1,0 +1,33 @@
+name: Build header
+
+on:
+  push:
+    paths:
+      - README.md
+      - .github/header.template.svg
+      - .github/scripts/build_header.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate assets/header.svg from the README config block
+        run: python3 .github/scripts/build_header.py
+
+      - name: Commit the new header if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/header.svg
+          if git diff --cached --quiet; then
+            echo "Header unchanged"
+          else
+            git commit -m "Rebuild header from README config"
+            git push
+          fi

@@ -1,14 +1,29 @@
+<!-- header-config
+HEADER SETTINGS. Edit the text after each colon, then commit and push.
+The header image rebuilds itself in about a minute.
+Add or remove lines under "roles" as you like.
+Need another tag line? Add "tag_line_3: your text" (up to 3 tag lines fit).
+
+tag_line_1: ITI · INTAKE 45
+tag_line_2: CAIRO, EGYPT
+name: PATRICK ATEF
+roles:
+  - Embedded Software Developer
+  - Embedded Linux · Yocto
+  - Android Automotive · AOSP
+  - Android Mobile Apps · Kotlin
+  - ISTQB Certified Professional
+-->
+
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
 <img src="assets/header.svg" alt="Patrick Atef - Embedded Linux and Android Automotive developer" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=PatrickAtef8&label=Profile%20views&color=00d9ff&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/badge/ITI-Intake%2045-e11d48?style=flat-square" alt="ITI Intake 45"/>
 <img src="https://img.shields.io/badge/ISTQB-Certified-22c55e?style=flat-square" alt="ISTQB"/>
-<img src="https://img.shields.io/badge/Cairo-Egypt-0ea5e9?style=flat-square&logo=googlemaps&logoColor=white" alt="Cairo, Egypt"/>
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-8b5cf6?style=flat-square" alt="Open to opportunities"/>
 
 <br/><br/>
