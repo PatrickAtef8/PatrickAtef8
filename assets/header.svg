@@ -76,8 +76,6 @@
     </g>
     <circle cx="985" cy="150" r="9" fill="#00d9ff"/>
     <circle cx="985" cy="150" r="4" fill="#08121f"/>
-    <text x="985" y="202" text-anchor="middle" class="gtxt">AAOS</text>
-    <text x="985" y="222" text-anchor="middle" class="gsub">IVI · YOCTO</text>
 
     <!-- CAN bus signals -->
     <path d="M0,292 L0,282 L26,282 L26,292 L104,292 L104,282 L182,282 L182,292 L234,292 L234,282 L312,282 L312,292 L338,292 L338,282 L416,282 L416,292 L442,292 L442,282 L468,282 L468,292 L494,292 L494,282 L520,282 L520,292 L572,292 L572,282 L650,282 L650,292 L676,292 L676,282 L702,282 L702,292 L728,292 L728,282 L754,282 L754,292 L780,292 L780,282 L858,282 L858,292 L936,292 L936,282 L1014,282 L1014,292 L1040,292 L1040,282 L1092,282 L1092,292 L1170,292 L1170,282 L1196,282 L1196,292 L1200,292" fill="none" stroke="#7c5cff" stroke-width="2" opacity="0.55" class="flow2"/>

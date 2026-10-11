@@ -22,72 +22,51 @@
 <br/>
 
 <!-- ===================== ABOUT ===================== -->
-## 👨‍💻 About Me
+## About Me
 
-<div align="left">
-
-<img align="right" width="260" src="assets/personal.jpeg" alt="Patrick Atef">
+<img align="right" width="300" src="assets/personal-rounded.png" alt="Patrick Atef"/>
 
 I build software that lives inside vehicles and on embedded hardware, from bare-metal firmware to Linux middleware to Android Automotive infotainment.
 
 **Location:** Cairo, Egypt  
-**Education:** ITI – Intake 45  
+**Education:** ITI, Intake 45  
 **Specialization:** Embedded Systems, Android Automotive  
-**Focus:** Embedded Linux, AOSP (Android Open Source Project), In-Vehicle Infotainment Systems  
+**Focus:** Embedded Linux, AOSP, In-Vehicle Infotainment (IVI)  
+**Certification:** ISTQB Certified Professional  
 
-</div>
+### What I do
+
+- Build **Android Automotive OS** apps and IVI systems on AOSP
+- Develop custom Linux distributions with **Yocto** and **Qt** middleware
+- Write bare-metal and RTOS firmware for **ARM Cortex-M**
+- Build Android mobile apps in **Kotlin** and **Java**
+- Implement vehicle middleware and communication protocols (vSOME/IP, CAN, I2C/SPI)
 
 <br clear="right"/>
 
-```kotlin
-val patrick = Engineer(
-    name        = "Patrick Atef",
-    location    = "Cairo, Egypt 🇪🇬",
-    education   = "ITI – Intake 45",
-    focus       = listOf("Embedded Linux", "AOSP", "In-Vehicle Infotainment"),
-    languages   = listOf("C", "C++", "Kotlin", "Java"),
-    certified   = "ISTQB",
-    currentGoal = "Ship reliable automotive software"
-)
-```
-
-| | |
-|---|---|
-| 🚗 **Android Automotive** | AAOS apps and IVI systems on AOSP |
-| 🐧 **Embedded Linux** | Custom distributions with Yocto, Qt middleware |
-| ⚙️ **Firmware** | Bare-metal and RTOS code for ARM Cortex-M |
-| 📱 **Mobile** | Android apps in Kotlin and Java |
-| 🔌 **Vehicle comms** | Vehicle middleware, vSOME/IP, CAN, I2C/SPI |
-
-<br/>
-
 <!-- ===================== FEATURED PROJECT ===================== -->
-## 🚀 Featured Project
+## Featured Project
 
 <div align="center">
 
-### [⚡ PAO – Power Of Three](https://github.com/PAO-PowerOfThree)
+### [PAO – Power Of Three](https://github.com/PAO-PowerOfThree)
 **ITI Graduation Project · Multi-Domain Automotive Platform**
 
 </div>
 
 | Domain | Technology | Implementation |
 |:--|:--|:--|
-| 🔩 **Bare Metal** | ARM Cortex-M | Real-time sensor fusion and vehicle control |
-| 🐧 **Linux Stack** | Yocto + Qt | Custom middleware with a modern UI/UX |
-| 🤖 **AAOS** | AOSP + Kotlin | Connected infotainment experience |
+| **Bare Metal** | ARM Cortex-M | Real-time sensor fusion and vehicle control |
+| **Linux Stack** | Yocto + Qt | Custom middleware with a modern UI/UX |
+| **AAOS** | AOSP + Kotlin | Connected infotainment experience |
 
-```mermaid
-flowchart LR
-    Y["🐧 Yocto + Qt<br/>IVI Screen 1"] <-- "vSOME/IP" --> A["🤖 Android Automotive<br/>IVI Screens 2 & 3"]
-    Y -. "simulated vehicle signals" .-> A
-    style Y fill:#0a3d62,stroke:#00d9ff,color:#fff
-    style A fill:#14532d,stroke:#3ddc84,color:#fff
-```
+<div align="center">
+<img src="assets/architecture.svg" alt="PAO architecture: Yocto Linux with Qt and Android Automotive linked over vSOME/IP, plus a bare-metal ARM Cortex-M layer" width="100%"/>
+</div>
 
-- 🔗 IPC between Yocto and Android over **vSOME/IP**
-- 🖥️ Multi-display IVI setup: **1 Qt screen on Yocto + 2 AAOS screens**
-- 📡 Real-time sharing of simulated vehicle signals across systems
+- IPC between Yocto and Android over **vSOME/IP**
+- Multi-display IVI setup: **1 Qt screen on Yocto + 2 AAOS screens**
+- Real-time sharing of simulated vehicle signals across systems
 
 <div align="center">
 <a href="https://github.com/PAO-PowerOfThree"><img src="https://img.shields.io/badge/View%20the%20project-PAO--PowerOfThree-00d9ff?style=for-the-badge&logo=github&logoColor=white" alt="View project"/></a>
@@ -96,7 +75,7 @@ flowchart LR
 <br/>
 
 <!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -136,7 +115,7 @@ flowchart LR
 <br/>
 
 <!-- ===================== STATS ===================== -->
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -159,21 +138,8 @@ flowchart LR
 
 <br/>
 
-<!-- ===================== SNAKE ===================== -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatrickAtef8/PatrickAtef8/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PatrickAtef8/PatrickAtef8/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/PatrickAtef8/PatrickAtef8/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
 <!-- ===================== CONTACT ===================== -->
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
 <div align="center">
 

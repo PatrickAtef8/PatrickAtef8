@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="PAO architecture: Yocto Linux with Qt and Android Automotive linked over vSOME/IP, plus a bare-metal ARM Cortex-M layer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b14"/><stop offset="1" stop-color="#0d2b45"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#12304a" stroke-width="1" opacity="0.5"/>
+    </pattern>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#00d9ff"/>
+    </marker>
+    <marker id="arr2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#9b87ff"/>
+    </marker>
+    <clipPath id="r"><rect width="1000" height="340" rx="18"/></clipPath>
+    <style>
+      .title { font: 700 18px 'Segoe UI','Helvetica Neue',Arial,sans-serif; fill: #ffffff; letter-spacing: 1px; }
+      .sub   { font: 500 14px 'Segoe UI','Helvetica Neue',Arial,sans-serif; fill: #8fa9c2; }
+      .scr   { font: 600 14px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; fill: #d7e6f5; }
+      .link  { font: 700 17px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; fill: #00d9ff; letter-spacing: 1px; }
+      .note  { font: 500 13px 'Segoe UI','Helvetica Neue',Arial,sans-serif; fill: #b4a6ff; }
+      .bar   { font: 600 15px 'Segoe UI','Helvetica Neue',Arial,sans-serif; fill: #d7e6f5; letter-spacing: 1px; }
+      .flow  { stroke-dasharray: 12 8; animation: flow 1.4s linear infinite; }
+      .flow2 { stroke-dasharray: 5 9; animation: flow 2s linear infinite; }
+      @keyframes flow { to { stroke-dashoffset: -40; } }
+    </style>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1000" height="340" fill="url(#bg)"/>
+    <rect width="1000" height="340" fill="url(#grid)"/>
+
+    <!-- Yocto / Qt -->
+    <rect x="40" y="36" width="360" height="196" rx="14" fill="#0a1626" stroke="#1d6f94" stroke-width="2"/>
+    <text x="64" y="74" class="title">YOCTO LINUX + QT</text>
+    <text x="64" y="98" class="sub">Custom middleware, modern UI/UX</text>
+    <rect x="125" y="124" width="190" height="84" rx="8" fill="#08121f" stroke="#00d9ff" stroke-width="2"/>
+    <text x="220" y="171" text-anchor="middle" class="scr">IVI Screen 1</text>
+
+    <!-- AAOS -->
+    <rect x="600" y="36" width="360" height="196" rx="14" fill="#0a1626" stroke="#2f8f5b" stroke-width="2"/>
+    <text x="624" y="74" class="title">ANDROID AUTOMOTIVE</text>
+    <text x="624" y="98" class="sub">AOSP + Kotlin</text>
+    <rect x="624" y="124" width="150" height="84" rx="8" fill="#08121f" stroke="#3ddc84" stroke-width="2"/>
+    <text x="699" y="171" text-anchor="middle" class="scr">IVI Screen 2</text>
+    <rect x="786" y="124" width="150" height="84" rx="8" fill="#08121f" stroke="#3ddc84" stroke-width="2"/>
+    <text x="861" y="171" text-anchor="middle" class="scr">IVI Screen 3</text>
+
+    <!-- link -->
+    <text x="500" y="112" text-anchor="middle" class="link">vSOME/IP</text>
+    <path d="M412,128 L588,128" stroke="#00d9ff" stroke-width="3" fill="none" class="flow" marker-start="url(#arr)" marker-end="url(#arr)"/>
+    <path d="M412,172 L588,172" stroke="#9b87ff" stroke-width="2" fill="none" class="flow2" marker-end="url(#arr2)"/>
+    <text x="500" y="196" text-anchor="middle" class="note">Simulated vehicle</text>
+    <text x="500" y="214" text-anchor="middle" class="note">signals</text>
+
+    <!-- bare metal -->
+    <rect x="40" y="258" width="920" height="54" rx="12" fill="#0a1626" stroke="#17405f" stroke-width="2"/>
+    <text x="500" y="291" text-anchor="middle" class="bar">BARE METAL   |   ARM Cortex-M   |   Real-time sensor fusion and vehicle control</text>
+  </g>
+  <rect x="1" y="1" width="998" height="338" rx="17" fill="none" stroke="#17405f" stroke-width="2"/>
+</svg>
