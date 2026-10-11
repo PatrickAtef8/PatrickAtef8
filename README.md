@@ -54,19 +54,20 @@ I build software that lives inside vehicles and on embedded hardware, from bare-
 
 </div>
 
-| Domain | Technology | Implementation |
+| Layer | Hardware and Stack | Role |
 |:--|:--|:--|
-| **Bare Metal** | ARM Cortex-M | Real-time sensor fusion and vehicle control |
-| **Linux Stack** | Yocto + Qt | Custom middleware with a modern UI/UX |
-| **AAOS** | AOSP + Kotlin | Connected infotainment experience |
+| **Bare Metal** | ESP32 + STM32 | Fingerprint authentication, sensor data collection, real-time input processing, SHA security |
+| **Embedded Linux** | Raspberry Pi 3B+ · Yocto + meta-pao | Central bridge node, Qt6 cluster UI, data processing hub, vsomeip communication |
+| **Android Automotive** | Raspberry Pi 5 · AOSP 15 + VHAL | User interface, HVAC and media control, voice assistant and GPS, OTA updates and child mode |
 
 <div align="center">
-<img src="assets/architecture.svg" alt="PAO architecture: Yocto Linux with Qt and Android Automotive linked over vSOME/IP, plus a bare-metal ARM Cortex-M layer" width="100%"/>
+<img src="assets/architecture.svg" alt="PAO Power of Three tri-system architecture: bare metal, embedded Linux and Android Automotive" width="100%"/>
 </div>
 
-- IPC between Yocto and Android over **vSOME/IP**
-- Multi-display IVI setup: **1 Qt screen on Yocto + 2 AAOS screens**
-- Real-time sharing of simulated vehicle signals across systems
+- Bare metal to Yocto over **CAN Bus** (sensor data) and **UART** (fingerprint events)
+- Yocto and Android linked over **vsomeip on Ethernet**, with event-driven bidirectional communication
+- Multi-display IVI setup: **1 Qt-based screen on Yocto + 2 Android Automotive screens**
+- End-to-end security: SHA hashing, secure authentication and protected OTA updates
 
 <div align="center">
 <a href="https://github.com/PAO-PowerOfThree"><img src="https://img.shields.io/badge/View%20the%20project-PAO--PowerOfThree-00d9ff?style=for-the-badge&logo=github&logoColor=white" alt="View project"/></a>
@@ -95,6 +96,9 @@ I build software that lives inside vehicles and on embedded hardware, from bare-
 <div align="center">
 
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-007ACC?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-0091BD?style=flat-square&logo=arm&logoColor=white)
 ![RTOS](https://img.shields.io/badge/RTOS-00979D?style=flat-square&logo=freertos&logoColor=white)
 ![Zephyr](https://img.shields.io/badge/Zephyr-4B0082?style=flat-square&logo=zephyrproject&logoColor=white)
