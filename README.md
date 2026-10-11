@@ -4,8 +4,9 @@ The header image rebuilds itself in about a minute.
 Add or remove lines under "roles" as you like.
 Need another tag line? Add "tag_line_3: your text" (up to 3 tag lines fit).
 
-tag_line_1: ITI · INTAKE 45
-tag_line_2: CAIRO, EGYPT
+tag_line_1: Software Engineer
+tag_line_2: ITI · INTAKE 45
+tag_line_3: CAIRO, EGYPT
 name: PATRICK ATEF
 roles:
   - Embedded Software Developer
@@ -22,7 +23,6 @@ roles:
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=PatrickAtef8&label=Profile%20views&color=00d9ff&style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/badge/ISTQB-Certified-22c55e?style=flat-square" alt="ISTQB"/>
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-8b5cf6?style=flat-square" alt="Open to opportunities"/>
 
@@ -133,41 +133,9 @@ I build software that lives inside vehicles and on embedded hardware, from bare-
 
 <br/>
 
-<!-- ===================== STATS ===================== -->
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PatrickAtef8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAtef8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=PatrickAtef8&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrickAtef8&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=PatrickAtef8&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
-
-<br/>
-
 <!-- ===================== CONTACT ===================== -->
 ## Let's Collaborate
 
-<div align="center">
-
-**Open to opportunities in**
-
-Embedded Systems Engineering · Automotive Software Development · Android Automotive OS<br/>
-Android Mobile Apps · Software Testing · IoT Solutions · System Architecture
-
-<br/>
 
 <a href="https://www.linkedin.com/in/patrick-atef-9826a6244/"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:patrickatefffa22@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
