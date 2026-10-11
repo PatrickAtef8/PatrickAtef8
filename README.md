@@ -5,8 +5,8 @@ Add or remove lines under "roles" as you like.
 Need another tag line? Add "tag_line_3: your text" (up to 3 tag lines fit).
 
 tag_line_1: Software Engineer
-tag_line_2: ITI · INTAKE 45
-tag_line_3: CAIRO, EGYPT
+tag_line_1: ITI · INTAKE 45
+tag_line_2: CAIRO, EGYPT
 name: PATRICK ATEF
 roles:
   - Embedded Software Developer
@@ -136,6 +136,7 @@ I build software that lives inside vehicles and on embedded hardware, from bare-
 <!-- ===================== CONTACT ===================== -->
 ## Let's Collaborate
 
+<div align="center">
 
 <a href="https://www.linkedin.com/in/patrick-atef-9826a6244/"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:patrickatefffa22@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
