@@ -21,20 +21,13 @@ roles:
 
 <img src="assets/header.svg" alt="Patrick Atef - Embedded Linux and Android Automotive developer" width="100%"/>
 
-<br/>
 
-<img src="https://img.shields.io/badge/ISTQB-Certified-22c55e?style=flat-square" alt="ISTQB"/>
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-8b5cf6?style=flat-square" alt="Open to opportunities"/>
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/patrick-atef-9826a6244/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:patrickatefffa22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/PatrickAtef8?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
 </div>
-
-<br/>
 
 <!-- ===================== ABOUT ===================== -->
 ## About Me
