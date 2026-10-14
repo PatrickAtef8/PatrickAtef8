@@ -68,8 +68,7 @@
       <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
     </circle>
 
-    <text x="70" y="41" class="tag">Software Engineer</text>
-    <text x="70" y="61" class="tag">ITI · INTAKE 45</text>
+    <text x="70" y="61" class="tag">Software Engineer</text>
     <text x="70" y="81" class="tag" fill="#4d6a85">CAIRO, EGYPT</text>
 
     <!-- Name -->
