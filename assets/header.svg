@@ -42,6 +42,7 @@
 
 
     <!-- tag lines -->
+    <text x="70" y="52" class="tag">Software Engineer</text>
     <text x="70" y="52" class="tag">ITI · INTAKE 45</text>
     <text x="70" y="72" class="tag" fill="#4d6a85">CAIRO, EGYPT</text>
     <circle cx="52" cy="47" r="5" fill="#22c55e"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
