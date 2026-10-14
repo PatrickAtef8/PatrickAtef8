@@ -64,7 +64,7 @@
     <circle cx="985" cy="150" r="190" fill="url(#glow)"/>
 
     <!-- Header tags: separated into two lines -->
-    <circle cx="52" cy="36" r="5" fill="#22c55e">
+    <circle cx="52" cy="56" r="5" fill="#22c55e">
       <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
     </circle>
 
